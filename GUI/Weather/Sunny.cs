@@ -8,5 +8,6 @@ namespace Game.Weather
 {
     class Sunny : WeatherBase
     {
+
     }
 }
